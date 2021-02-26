@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=ghostaatrox&theme=dark)
 <!--
 [![Blog](https://img.shields.io/badge/blog.winterchen- -yellow?logo=bloglovin)](https://www.ghostgroup.cn/blog)
-[![Photos](https://img.shields.io/badge/ Photography- -blue?logo=pivotal-tracker)](https://photo.winterchen.com)
+[![Photos](https://img.shields.io/badge/Photography- -blue?logo=pivotal-tracker)](https://photo.winterchen.com)
 [![i@winterchen.com](https://img.shields.io/badge/i@winterchen.com- -orange?logo=gmail)](mailto:i@winterchen.com)
 [![Folio](https://img.shields.io/badge/Folio- -orange?logo=fandango)](https://folio.winterchen.com)
 -->
+[![Blog](https://img.shields.io/badge/blog-Aatrox'blog-green?logo=bloglovin)](https://www.ghostgroup.cn/blog)
+[![BBS](https://img.shields.io/badge/BBS-Aatrox'blog-green?logo=bloglovin)](https://www.ghostgroup.cn/blog)
+

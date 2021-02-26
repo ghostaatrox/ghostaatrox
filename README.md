@@ -15,7 +15,9 @@
 [![Github](https://img.shields.io/github/followers/ghostaatrox?label=Github&style=social)](https://github.com/ghostaatrox)
 [![blog](https://img.shields.io/badge/blog-Aatrox'blog-green?logo=bloglovin)](https://www.ghostgroup.cn/blog)
 [![bbs](https://img.shields.io/badge/BBS-Ghostforum-green?logo=bloglovin)](https://www.ghostgroup.cn/)
-[![公众号](https://img.shields.io/badge/公众号-C3sec-green)](https://app.sanii.cn/)
+[![gmail](https://img.shields.io/badge/bbs-Aatrox'blog-green?logo=gmail)](mailto:ghostaatrox@gmail.com)
+[![公众号](https://img.shields.io/badge/公众号-C3sec-green)](https://www.baidu.com/)
+
 ### Interesting stats
 ![](https://github-readme-stats.vercel.app/api?username=ghostaatrox&theme=dark)
 

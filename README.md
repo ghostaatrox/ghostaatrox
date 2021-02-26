@@ -1,26 +1,18 @@
-### Hi there 👋
+# Hi, I'm [GhostAatrox!](https://www.ghostgroup.cn/blog) 👋.
+## About me
+网络安全 ｜ 三一树根互联脚本小子 🤔
+网络安全 ｜ 前启明星辰渗透测试工程师 🤖
+安全运维 ｜ 现某小公司端茶倒水小二:man_technologist:
+:heart: 干饭| :black_heart: 干饭 | :blue_heart: 干饭
 
-<!--
-**ghostaatrox/ghostaatrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :earth_americas:  广东-深圳
+- :video_game:  LOL
+- :gem:  **
+[![Github](https://img.shields.io/github/followers/ghostaatrox?label=Github&style=social)](https://github.com/ghostaatrox)
+[![blog](https://img.shields.io/badge/blog-Aatrox'blog-green?logo=bloglovin)](https://www.ghostgroup.cn/blog)
+[![bbs](https://img.shields.io/badge/BBS-Aatrox'blog-green?logo=bloglovin)](https://www.ghostgroup.cn/blog)
+[![公众号](https://img.shields.io/badge/公众号-SAnBlog-green)](https://app.sanii.cn/)
+### Interesting stats
 ![](https://github-readme-stats.vercel.app/api?username=ghostaatrox&theme=dark)
-<!--
-[![Blog](https://img.shields.io/badge/blog.winterchen- -yellow?logo=bloglovin)](https://www.ghostgroup.cn/blog)
-[![Photos](https://img.shields.io/badge/Photography- -blue?logo=pivotal-tracker)](https://photo.winterchen.com)
-[![i@winterchen.com](https://img.shields.io/badge/i@winterchen.com- -orange?logo=gmail)](mailto:i@winterchen.com)
-[![Folio](https://img.shields.io/badge/Folio- -orange?logo=fandango)](https://folio.winterchen.com)
--->
-[![Blog](https://img.shields.io/badge/blog-Aatrox'blog-green?logo=bloglovin)](https://www.ghostgroup.cn/blog)
-[![BBS](https://img.shields.io/badge/BBS-Aatrox'blog-green?logo=bloglovin)](https://www.ghostgroup.cn/blog)
 
+-----The end of it now-----

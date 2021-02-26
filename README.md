@@ -1,15 +1,14 @@
 ![header.png](https://api.lyiqk.cn/bing/)
 # Hello man
-<br />
 <hr>
 <p style="background-color:blue;" align='center'><i><b>Welcome my github webpage,have nice moment</b></i>
 </p>
 <hr>
-<br />
+
 ## About me
-网络安全 ｜ 三一树根互联脚本小子 🤔<br />
-网络安全 ｜ 前启明星辰渗透测试工程师 🤖<br />
-安全运维 ｜ 现某小公司端茶倒水小二:man_technologist:<br />
+网络安全 ｜ 三一树根互联脚本小子 🤔<br>
+网络安全 ｜ 前启明星辰渗透测试工程师 🤖<br>
+安全运维 ｜ 现某小公司端茶倒水小二:man_technologist:<br>
 :heart: 干饭| :black_heart: 干饭 | :blue_heart: 干饭
 
 - :earth_americas:  广东-深圳

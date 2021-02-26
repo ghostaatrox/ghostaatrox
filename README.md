@@ -13,9 +13,9 @@
 - :gem:  **
 - 
 [![Github](https://img.shields.io/github/followers/ghostaatrox?label=Github&style=social)](https://github.com/ghostaatrox)
-[![blog](https://img.shields.io/badge/blog-Aatrox'blog-green?logo=bloglovin)](https://www.ghostgroup.cn/blog)
-[![bbs](https://img.shields.io/badge/BBS-Ghostforum-green?logo=bloglovin)](https://www.ghostgroup.cn/)
-[![gmail](https://img.shields.io/badge/bbs-Aatrox'blog-green?logo=gmail)](mailto:ghostaatrox@gmail.com)
+[![blog](https://img.shields.io/badge/blog-Aatrox'blog-green)](https://www.ghostgroup.cn/blog)
+[![bbs](https://img.shields.io/badge/BBS-Ghostforum-green)](https://www.ghostgroup.cn/)
+[![gmail](https://img.shields.io/badge/email-aatroxghost@gamil.com-green?logo=gmail)](mailto:aatroxghost@gmail.com)
 [![公众号](https://img.shields.io/badge/公众号-C3sec-green)](https://www.baidu.com/)
 
 ### Interesting stats

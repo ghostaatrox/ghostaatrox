@@ -1,7 +1,7 @@
 ![header.png](https://api.lyiqk.cn/bing/)
 # Hello man
 <hr>
-<p style="background-color:blue;" align='center'><i><b>Welcome my github webpage,have nice moment</b></i>
+<p style="background-color:blue;" align='center'><i><b>Everyone should take action with dream and have a  reason to be stronger</b></i>
 </p>
 <hr>
 

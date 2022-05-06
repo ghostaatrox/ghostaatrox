@@ -15,6 +15,7 @@
 ## About me
 
 [![](./email_png.png)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/50776005)
+[![](./thm.png)](https://tryhackme.com/tktkghost/badges/throwback)
 
 
 网络安全 ｜ 广州安加互联科技有限公司[渗透测试工程师]🤔<br>

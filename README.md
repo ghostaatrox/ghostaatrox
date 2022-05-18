@@ -33,6 +33,7 @@
 [![Github](https://img.shields.io/github/followers/ghostaatrox?label=Github&style=social)](https://github.com/ghostaatrox)
 
 [![blog](https://img.shields.io/badge/blog-Aatrox'blog-green)](https://www.ghostgroup.cn/blog)
+[![blog2](https://img.shields.io/badge/blog-Aatrox'blog-green)](https://oscp.ghostgroup.cn/)
 
 [![bbs](https://img.shields.io/badge/BBS-Ghostforum-green)](https://www.ghostgroup.cn/)
 
